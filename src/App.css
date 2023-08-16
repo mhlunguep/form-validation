@@ -1,0 +1,21 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  margin: 50px auto;
+  padding: 50px;
+  border: 1px solid #111;
+}
+
+span{  
+  font-size: 10px !important;
+}
+button{
+  display: block;
+  margin-top: 12px !important;
+}
